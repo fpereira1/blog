@@ -5,14 +5,14 @@
 #
 title:       "Leonids Jekyll theme"
 description: "Clean Jekyll blog theme called Leonids."
-url:         # the base hostname & protocol for your site
+url:         "/leonids/"
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Auckland/Pacific
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -31,13 +31,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Your name
+  name: Filype Pereira
   avatar: avatar.jpg
   job: "Your job"
   bio: "Write about yourself"
-  email:
+  email: "pereira.filype@gmail.com"
   disqus-shortname:
-  twitter:
+  twitter: "FilypePereira"
   facebook:
   google:
     plus:
@@ -46,8 +46,8 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  github: "fpereira1"
+  stackoverflow: "280842/filype" #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
   instagram: #username
