@@ -11,4 +11,12 @@
   ga('create', '{{ site.owner.google.analytics }}', 'auto');
   ga('send', 'pageview');
 </script>
+<script type="text/javascript">
+  $('a.external, a[target="_new"], a[target="_blank"]').on('click', function() {
+    // Do not proceed if ga is not defined
+    if(typeof ga === 'undefined') { return; }
+    var url = $(this).attr('href');
+    ga('send', 'event', 'outbound', 'click', url);
+  });
+</script>
 {% endif %}
