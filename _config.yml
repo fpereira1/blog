@@ -33,7 +33,7 @@ kramdown:
 owner:
   name: Filype Pereira
   avatar: avatar.jpg
-  job: "Your job"
+  job: "Software developer"
   bio: "Write about yourself"
   email: "pereira.filype@gmail.com"
   disqus-shortname: filype-blog
@@ -41,7 +41,7 @@ owner:
   facebook:
   google:
     plus:
-    analytics:
+    analytics: "UA-71295675-1"
     verify:
     ad-client:
     ad-slot:
