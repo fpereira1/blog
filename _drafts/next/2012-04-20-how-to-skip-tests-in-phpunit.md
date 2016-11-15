@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to skip tests in PHPunit?"
+tags: [php, phpunit]
 comments: true
 ---
 
