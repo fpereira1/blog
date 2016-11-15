@@ -19,10 +19,10 @@ excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
 
 kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
-  toc_levels:     1..6
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
   enable_coderay: false
 
 #
@@ -48,7 +48,9 @@ owner:
   bing-verify:
   github: "fpereira1"
   stackoverflow: "280842/filype" #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  gitlab: #username
   linkedin: #username
+  skype: #username
   xing: #username
   instagram: #username
   lastfm: #username
@@ -61,4 +63,5 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
+  500px: #username
   codepen: #username
