@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "I'm working on making leonids a [jekyll theme](https://jekyllrb.com/docs/themes/) so that people can easily install the theme without having to fork or download anything from here. Actually the first gem version is published, you can install it by following the official [doc](https://jekyllrb.com/docs/themes/). You can find the rubygem version [here](https://rubygems.org/gems/leonids). But it will be on beta until I can finish the doc of how you can install leonids with the rubygem version.",
+  "main": "index.js",
+  "dependencies": {
+    "sw-toolbox": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpereira1/blog.git"
+  },
+  "author": "Filype Pereira <pereira.filype@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fpereira1/blog/issues"
+  },
+  "homepage": "https://github.com/fpereira1/blog#readme"
+}
