@@ -1,3 +1,11 @@
+---
+layout: page
+title: "pgp"
+---
+
+My PGP key
+
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: GPGTools - https://gpgtools.org
 
@@ -50,3 +58,4 @@ rXNHNer2X+irDXI18zAl03SA09WpjCj0MvITRYeZ9EltehRqk8Ufx034tTWH6xjS
 XsezTd6qe+73kDyX+E7YhAlUPw==
 =XbJ4
 -----END PGP PUBLIC KEY BLOCK-----
+```
